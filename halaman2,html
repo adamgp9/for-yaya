@@ -152,8 +152,9 @@ window.addEventListener("load", function(){
 
 // Background slideshow
 const images=[
-"foto1.jpg","foto2.jpg","foto3.jpg","foto4.jpg",
-"foto5.jpg","foto6.jpg","foto7.jpg","foto8.jpg"
+"IMG-20250717-WA0072.jpg","IMG-20250717-WA0114.jpg","IMG-20250717-WA0117.jpg","
+WhatsApp Image 2026-02-23 at 02.02.34.jpeg",
+"WhatsApp Image 2026-02-23 at 02.02.35.jpeg","WhatsApp Image 2026-02-23 at 02.02.36 (1).jpeg","WhatsApp Image 2026-02-23 at 02.02.36.jpeg","WhatsApp Image 2026-02-23 at 02.02.37 (1).jpeg"
 ];
 let bgIndex=0;
 function changeBackground(){
